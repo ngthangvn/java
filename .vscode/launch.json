@@ -1,0 +1,546 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Enum.Test",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "oopSxClass.Test",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "TinhDaHinh.Test",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "TestDiem",
+      "request": "launch",
+      "mainClass": "QuanLyDiem.TestDiem",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "CongTy.Test",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai30_oop_part1",
+      "request": "launch",
+      "mainClass": "bai30_oop_part1",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai29_giaibt33",
+      "request": "launch",
+      "mainClass": "bai29_giaibt33",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai29_Hasmap",
+      "request": "launch",
+      "mainClass": "bai29_Hasmap",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai28_4giaibt30",
+      "request": "launch",
+      "mainClass": "bai28_4giaibt30",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai28_6giaibt32",
+      "request": "launch",
+      "mainClass": "bai28_6giaibt32",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai28_5giaibt31",
+      "request": "launch",
+      "mainClass": "bai28_5giaibt31",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai28_5giaibt30",
+      "request": "launch",
+      "mainClass": "bai28_5giaibt30",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai28_4giaibt29",
+      "request": "launch",
+      "mainClass": "bai28_4giaibt29",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai28_2giaibt28",
+      "request": "launch",
+      "mainClass": "bai28_2giaibt28",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai28_2giaibt27",
+      "request": "launch",
+      "mainClass": "bai28_2giaibt27",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai28_1collection_arrayList_HashMap",
+      "request": "launch",
+      "mainClass": "bai28_1collection_arrayList_HashMap",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai27_3bt_mang",
+      "request": "launch",
+      "mainClass": "bai27_3bt_mang",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai27_1mang",
+      "request": "launch",
+      "mainClass": "bai27_1mang",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai1",
+      "request": "launch",
+      "mainClass": "bai1",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai10_Scanner",
+      "request": "launch",
+      "mainClass": "bai10_Scanner",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai10_giaibt02",
+      "request": "launch",
+      "mainClass": "bai10_giaibt02",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai11_4gbtjava07",
+      "request": "launch",
+      "mainClass": "bai11_4gbtjava07",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai11_5gbtjava08",
+      "request": "launch",
+      "mainClass": "bai11_5gbtjava08",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai11_6giaibt09",
+      "request": "launch",
+      "mainClass": "bai11_6giaibt09",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai11_giaibaitap04",
+      "request": "launch",
+      "mainClass": "bai11_giaibaitap04",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai11_giaibaitap06",
+      "request": "launch",
+      "mainClass": "bai11_giaibaitap06",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai11_giaibaitapjava05",
+      "request": "launch",
+      "mainClass": "bai11_giaibaitapjava05",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai11_giaibt11",
+      "request": "launch",
+      "mainClass": "bai11_giaibt11",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai11_ifelse",
+      "request": "launch",
+      "mainClass": "bai11_ifelse",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai12_1giaibt10",
+      "request": "launch",
+      "mainClass": "bai12_1giaibt10",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai12_toantu3ngoi",
+      "request": "launch",
+      "mainClass": "bai12_toantu3ngoi",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai13_Switch_case_java",
+      "request": "launch",
+      "mainClass": "bai13_Switch_case_java",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai14_vidu",
+      "request": "launch",
+      "mainClass": "bai14_vidu",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai14_while",
+      "request": "launch",
+      "mainClass": "bai14_while",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai15_dowhile",
+      "request": "launch",
+      "mainClass": "bai15_dowhile",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai15_whiletrue",
+      "request": "launch",
+      "mainClass": "bai15_whiletrue",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai16_for",
+      "request": "launch",
+      "mainClass": "bai16_for",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai17_1giaibt12",
+      "request": "launch",
+      "mainClass": "bai17_1giaibt12",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai17_2giaibt13",
+      "request": "launch",
+      "mainClass": "bai17_2giaibt13",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai17_3giaibt14",
+      "request": "launch",
+      "mainClass": "bai17_3giaibt14",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai17_4giaibt15",
+      "request": "launch",
+      "mainClass": "bai17_4giaibt15",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai17_5giaibt16",
+      "request": "launch",
+      "mainClass": "bai17_5giaibt16",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai17_6giaibt17",
+      "request": "launch",
+      "mainClass": "bai17_6giaibt17",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai17_7giaibt18",
+      "request": "launch",
+      "mainClass": "bai17_7giaibt18",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai17_break_continue",
+      "request": "launch",
+      "mainClass": "bai17_break_continue",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai18_forlongnhau",
+      "request": "launch",
+      "mainClass": "bai18_forlongnhau",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai20_xulyngoaile",
+      "request": "launch",
+      "mainClass": "bai20_xulyngoaile",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai21_giaibt",
+      "request": "launch",
+      "mainClass": "bai21_giaibt",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai21_hamtrongjava",
+      "request": "launch",
+      "mainClass": "bai21_hamtrongjava",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai21_vidu",
+      "request": "launch",
+      "mainClass": "bai21_vidu",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai22_datetime",
+      "request": "launch",
+      "mainClass": "bai22_datetime",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai22_viduvandung",
+      "request": "launch",
+      "mainClass": "bai22_viduvandung",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai23_mathjava",
+      "request": "launch",
+      "mainClass": "bai23_mathjava",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai24_randomjava",
+      "request": "launch",
+      "mainClass": "bai24_randomjava",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai25_char",
+      "request": "launch",
+      "mainClass": "bai25_char",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_1_String1",
+      "request": "launch",
+      "mainClass": "bai26_1_String1",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_giaibt19",
+      "request": "launch",
+      "mainClass": "bai26_giaibt19",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_giaibt20",
+      "request": "launch",
+      "mainClass": "bai26_giaibt20",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_giaibt21",
+      "request": "launch",
+      "mainClass": "bai26_giaibt21",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_giaibt22",
+      "request": "launch",
+      "mainClass": "bai26_giaibt22",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_giaibt23",
+      "request": "launch",
+      "mainClass": "bai26_giaibt23",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_giaibt24",
+      "request": "launch",
+      "mainClass": "bai26_giaibt24",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_giaibt25",
+      "request": "launch",
+      "mainClass": "bai26_giaibt25",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_giaibt26",
+      "request": "launch",
+      "mainClass": "bai26_giaibt26",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai26_viduvandungstring",
+      "request": "launch",
+      "mainClass": "bai26_viduvandungstring",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai2_xuatdulieu",
+      "request": "launch",
+      "mainClass": "bai2_xuatdulieu",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai3_timhieuveghichu",
+      "request": "launch",
+      "mainClass": "bai3_timhieuveghichu",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai4_kieudulieutrongjava",
+      "request": "launch",
+      "mainClass": "bai4_kieudulieutrongjava",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai5_khaibaobientrongjava",
+      "request": "launch",
+      "mainClass": "bai5_khaibaobientrongjava",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai6_epkieudulieu",
+      "request": "launch",
+      "mainClass": "bai6_epkieudulieu",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai7_cacpheptoan",
+      "request": "launch",
+      "mainClass": "bai7_cacpheptoan",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai7_viduvandung",
+      "request": "launch",
+      "mainClass": "bai7_viduvandung",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai8_baitapvandung",
+      "request": "launch",
+      "mainClass": "bai8_baitapvandung",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai8_toantugan_cacphepsosanh",
+      "request": "launch",
+      "mainClass": "bai8_toantugan_cacphepsosanh",
+      "projectName": "tuhocjava_89fec064"
+    },
+    {
+      "type": "java",
+      "name": "bai9_toantulogic",
+      "request": "launch",
+      "mainClass": "bai9_toantulogic",
+      "projectName": "tuhocjava_89fec064"
+    }
+  ]
+}
